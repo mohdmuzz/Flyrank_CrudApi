@@ -1,0 +1,20 @@
+{
+  "name": "flyrank-crud-api",
+  "version": "1.0.0",
+  "description": "In-memory Task CRUD API for FlyRank Backend AI Engineering assignment",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "express",
+    "crud",
+    "swagger",
+    "flyrank"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.21.2",
+    "swagger-ui-express": "^5.0.1"
+  }
+}
